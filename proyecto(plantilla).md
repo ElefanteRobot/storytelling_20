@@ -2,29 +2,29 @@
 
 # Proyecto HRUN2020 (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Equipo Eri
 
 Proyecto (código): 
 
 
 ## Resumen
-
+Niña que intenta escapar de la esclavitud de los robots.
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Eri
 
 
 ### Historia
-
+Niña que huye de los robots, que quieren convertir a los humanos en cyborgs para esclavizarlos. En su huida, la niña se encuentra con un elefante robot. Ella cree que es malvado, como los demás, pero es distinto y le ayuda.
 
 ### Contexto
-
+Un mundo dominado por los robots, que han sometido a los humanos.
 
 ### Conflicto 
-
+Humanos vs Robots
 
 - ChatBot: (enlace) 
 
