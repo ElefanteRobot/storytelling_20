@@ -12,7 +12,7 @@ Niña que intenta escapar de la esclavitud de los robots.
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/ElefanteRobot/storytelling_20/blob/master/descarga.jpg)
 
 Nombre: Eri
 
