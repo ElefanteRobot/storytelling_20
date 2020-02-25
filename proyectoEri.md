@@ -42,9 +42,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Darío Fernández del Moral
+- :woman: Andrea Fernández Morillas
+- :woman: Isabel Latorre Román
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
