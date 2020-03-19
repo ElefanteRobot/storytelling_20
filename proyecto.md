@@ -28,7 +28,7 @@ Humanos vs Robots
 
 - ChatBot: https://t.me/EriContact_Bot  
 
-- Banner:  (enlace) 
+- Banner:  https://github.com/ElefanteRobot/storytelling_20/blob/master/Banner%20%40EriContact_Bot.zip 
 
 - Storytelling: (enlace) 
 
