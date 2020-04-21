@@ -30,7 +30,7 @@ Humanos vs Robots
 
 - Banner:  https://github.com/ElefanteRobot/storytelling_20/blob/master/Banner%20%40EriContact_Bot.zip 
 
-- Storytelling: https://mega.nz/file/XEYVnKaS#a271AeG-YcEiBT7H6O0uK38QimEeH3UgORzcTuIGSpE 
+- Storytelling: https://mega.nz/file/fRJDTIwQ#RUbMkPI-ogUaWBGJMb1HTQ7cB_m1ZWWATB25GbEDrHI 
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
